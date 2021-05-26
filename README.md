@@ -1,2 +1,6 @@
 # Pedra-Papel-Tesoura
-Joguinho pedra papel tesoura implementado em Java.
+
+##  O Classico jogo pedra - papel - tesoura.
+
+
+## Funcionalidades 
