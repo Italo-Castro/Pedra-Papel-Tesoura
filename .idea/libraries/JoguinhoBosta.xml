@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JoguinhoBosta">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/JoguinhoBosta.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
